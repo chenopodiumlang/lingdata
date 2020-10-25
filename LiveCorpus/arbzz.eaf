@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-10-20T21:33:58+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-10-24T21:04:11+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/cheno/Desktop/lingdata/arbzz.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./arbzz.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2ffa750a-85cf-40c7-82e1-77aff95485ed</PROPERTY>
@@ -1350,7 +1350,7 @@
     <TIER ANNOTATOR="chenopodiumlang" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@kua1968m" TIER_ID="text@kua1968m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts87">
-                <ANNOTATION_VALUE>а... / такой э момент присутствовал но это не являлось причиной ра... распада группы не #смеется#</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ааа / такой э момент присутствовал но это не являлось причиной ра... распада группы не #смеется#</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1360,7 +1360,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts224" TIME_SLOT_REF2="ts261">
-                <ANNOTATION_VALUE>нет / на... наверно нет не так потому что история с эээ с акустиками с выступлением под гитару она как бы продолжается параллельно но ааа...//</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>нет / на... наверно нет не так потому что история с эээ с акустиками с выступлением под гитару она как бы продолжается параллельно но ааа//</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1370,17 +1370,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts305" TIME_SLOT_REF2="ts326">
-                <ANNOTATION_VALUE>иии захотелось во-первых собрать группу для... для концертов / именно под этот материал аaa a во-вторых этот материал записать //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>иии захотелось во-первых собрать группу для для концертов / именно под этот материал аaa a во-вторых этот материал записать //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts327" TIME_SLOT_REF2="ts377">
-                <ANNOTATION_VALUE>и вот эээ тут о... о чём я говорил в начале да? Зимовье как бы с... само вело ме.. он... оно снова меня / вот забрало поставило на это место и сказало возвращай название возвращай дух группы / эээ и продолжай эту историю / так что эээ //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>и вот эээ тут э о чём я говорил в начале да? Зимовье как бы с... само вело ме.. он... оно снова меня / вот забрало поставило на это место и сказало возвращай название возвращай дух группы / эээ и продолжай эту историю / так что эээ //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts378" TIME_SLOT_REF2="ts410">
-                <ANNOTATION_VALUE>теперь / Зимовье существует да но всё равно ааа / мы не можем например там очень часто давать концерты / во всяком случае щас такой ещё возможности не... не появилось //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>теперь / Зимовье существует да но всё равно ааа / мы не можем например там очень часто давать концерты / во всяком случае щас такой ещё возможности не не появилось //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1487,7 +1487,7 @@
     <TIER ANNOTATOR="chenopodiumlang" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@dd1982m" TIER_ID="text@dd1982m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts7">
-                <ANNOTATION_VALUE>я где-то читал что...//</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я где-то читал что//</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1549,7 +1549,7 @@
     <TIER ANNOTATOR="chenopodiumlang" LINGUISTIC_TYPE_REF="words" PARENT_REF="text@kua1968m" PARTICIPANT="@kua1968m" TIER_ID="words@kua1968m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1375" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
-                <ANNOTATION_VALUE>а...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ааа</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1769,7 +1769,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1419" TIME_SLOT_REF1="ts258" TIME_SLOT_REF2="ts259">
-                <ANNOTATION_VALUE>ааа...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ааа</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2019,7 +2019,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1469" TIME_SLOT_REF1="ts310" TIME_SLOT_REF2="ts311">
-                <ANNOTATION_VALUE>для...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>для</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2119,7 +2119,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1490" TIME_SLOT_REF1="ts331" TIME_SLOT_REF2="ts332">
-                <ANNOTATION_VALUE>о...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>э</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2484,7 +2484,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1563" TIME_SLOT_REF1="ts405" TIME_SLOT_REF2="ts406">
-                <ANNOTATION_VALUE>не...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>не</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6711,7 +6711,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2405" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
-                <ANNOTATION_VALUE>что...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>что</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
